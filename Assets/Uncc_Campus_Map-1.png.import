@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Uncc_Campus_Map-1.png-f6364dca181d0c0290b36b7c3a5e6be5.stex"
+path="res://.import/Uncc_Campus_Map-1.png-a629d2384dd48c839cfd0e77f43c044f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Uncc_Campus_Map-1.png"
-dest_files=[ "res://.import/Uncc_Campus_Map-1.png-f6364dca181d0c0290b36b7c3a5e6be5.stex" ]
+source_file="res://Assets/Uncc_Campus_Map-1.png"
+dest_files=[ "res://.import/Uncc_Campus_Map-1.png-a629d2384dd48c839cfd0e77f43c044f.stex" ]
 
 [params]
 

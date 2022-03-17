@@ -11,7 +11,12 @@ config_version=4
 [application]
 
 config/name="UNC_Niner_Rides"
-config/icon="res://icon.png"
+config/icon="res://Assets/icon.png"
+
+[display]
+
+window/size/width=1920
+window/size/height=1080
 
 [physics]
 
