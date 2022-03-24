@@ -8,4 +8,4 @@ func _ready():
 func _on_Timer_timeout():
 	
 	# Switch to Main menu
-	get_tree().change_scene("res://Scenes/HomeScreen.tscn")
+	get_tree().change_scene("res://Scenes/MainMenu.tscn")
