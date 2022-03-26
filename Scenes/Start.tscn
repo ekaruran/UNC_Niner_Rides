@@ -19,11 +19,8 @@ margin_bottom = 849.0
 rect_scale = Vector2( 2, 2 )
 theme = ExtResource( 2 )
 custom_colors/font_color = Color( 0, 0.337255, 0.25098, 1 )
-text = "Niner Rides"
+text = "Niner Walks"
 align = 1
-__meta__ = {
-"_edit_use_anchors_": false
-}
 
 [node name="Timer" type="Timer" parent="."]
 one_shot = true
