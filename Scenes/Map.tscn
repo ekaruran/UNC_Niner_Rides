@@ -29,9 +29,7 @@ polygon = PoolVector2Array( 1907, 750, 1980, 668, 2040, 722, 1968, 804 )
 [node name="Polygon2D" type="Polygon2D" parent="Buildings/Kulwicki_Laboratory"]
 polygon = PoolVector2Array( 2163, 811, 2186, 785, 2236, 829, 2213, 857 )
 
-[node name="Node2D" type="Node2D" parent="Buildings"]
+[node name="Motorsports Research" type="Node2D" parent="."]
 
-[node name="Node2D2" type="Node2D" parent="Buildings"]
-
-[node name="Polygon2D" type="Polygon2D" parent="Buildings"]
-polygon = PoolVector2Array( 2244, 766, 2250, 760, 2222, 736, 2256, 697, 2331, 766, 2299, 803, 2269, 776, 2263, 785 )
+[node name="Polygon2D" type="Polygon2D" parent="Motorsports Research"]
+polygon = PoolVector2Array( 2264, 783, 2259, 783, 2244, 771, 2250, 760, 2250, 760, 2249, 761, 2223, 733, 2256, 699, 2333, 764, 2298, 805 )
