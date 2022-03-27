@@ -33,3 +33,28 @@ polygon = PoolVector2Array( 2163, 811, 2186, 785, 2236, 829, 2213, 857 )
 
 [node name="Polygon2D" type="Polygon2D" parent="Buildings/Motorsports Research"]
 polygon = PoolVector2Array( 2260, 782, 2243, 771, 2250, 760, 2218, 737, 2252, 696, 2331, 761, 2297, 805, 2272, 778 )
+
+[node name="Charlotte_Engineering_Early_College" type="Node2D" parent="Buildings"]
+
+[node name="Polygon2D" type="Polygon2D" parent="Buildings/Charlotte_Engineering_Early_College"]
+polygon = PoolVector2Array( 1556, 1567, 1532, 1540, 1561, 1515, 1565, 1512, 1636, 1574, 1606, 1609 )
+
+[node name="Grigg_Hall" type="Node2D" parent="Buildings"]
+
+[node name="Polygon2D" type="Polygon2D" parent="Buildings/Grigg_Hall"]
+polygon = PoolVector2Array( 1883, 1119, 1868, 1103, 1880, 1089, 1873, 1079, 1924, 1023, 1916, 1013, 1937, 991, 1945, 996, 1964, 976, 1989, 1003, 1998, 999, 2023, 1020, 2016, 1027, 2043, 1052, 2026, 1072, 2034, 1082, 2015, 1106, 2005, 1099, 1955, 1154, 1930, 1127, 1930, 1127, 1977, 1075, 1972, 1071, 1975, 1071, 1952, 1045 )
+
+[node name="Woodward" type="Node2D" parent="Buildings"]
+
+[node name="Polygon2D" type="Polygon2D" parent="Buildings/Woodward"]
+polygon = PoolVector2Array( 3040, 1912, 3063, 1910, 3063, 1902, 3050, 1885, 3053, 1872, 3053, 1872, 3066, 1862, 3066, 1862, 3080, 1867, 3087, 1876, 3097, 1876, 3101, 1862, 3122, 1859, 3125, 1850, 3217, 1855, 3217, 1864, 3238, 1864, 3238, 1874, 3250, 1872, 3250, 1899, 3237, 1898, 3238, 1913, 3139, 1913, 3135, 1905, 3101, 1906, 3094, 1909, 3094, 1960, 3104, 1960, 3103, 1983, 3096, 1981, 3093, 2028, 3084, 2032, 3084, 2038, 3049, 2038, 3049, 2025, 3036, 2026, 3039, 1995, 3031, 1992, 3032, 1950, 3043, 1947 )
+
+[node name="Burson" type="Node2D" parent="Buildings"]
+
+[node name="Polygon2D" type="Polygon2D" parent="Buildings/Burson"]
+polygon = PoolVector2Array( 3557, 1905, 3557, 1879, 3545, 1879, 3545, 1868, 3555, 1868, 3557, 1842, 3747, 1846, 3744, 1952, 3734, 1957, 3727, 1956, 3704, 1981, 3671, 1981, 3671, 1958, 3641, 1957, 3644, 1932, 3614, 1933, 3614, 1906 )
+
+[node name="Cato_College_of_Education" type="Node2D" parent="Buildings"]
+
+[node name="Polygon2D" type="Polygon2D" parent="Buildings/Cato_College_of_Education"]
+polygon = PoolVector2Array( 3384, 1944, 3352, 1944, 3352, 1928, 3336, 1928, 3336, 1920, 3312, 1920, 3312, 1832, 3336, 1832, 3336, 1816, 3352, 1816, 3352, 1808, 3384, 1808, 3384, 1816, 3400, 1816, 3400, 1832, 3408, 1832, 3408, 1920, 3400, 1920, 3400, 1928, 3384, 1928 )
