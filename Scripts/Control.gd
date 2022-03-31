@@ -3,9 +3,13 @@ extends Control
 var matches = []
 
 var places = [
-	"Fretwell", "Cone", "Student Union",
-	"Burson", "Woodward", "Kennedy",
-	"Friday", "Science Building"
+	"Atkins", "Barnard", "Belk Gym", "Bioinformatics",
+	"Burson", "Cameron Hall", "Cato", "Charlotte Engineering Early College",
+	"College of Health and Human Services", "Colvard", "Denny", "Duke Centennial Hall",
+	"EPIC", "Fretwell", "Friday", "Garinger", "Grigg Hall", "Johnson Band Center",
+	"Kulwicki Laboratory", "Macy", "McEniry", "Memorial Hall", "Motorsports Research",
+	"PORTAL", "Robinson Hall", "Rowe", "Science Building", "Smith", "Storrs",
+	"Winningham", "Woodward"
 ]
 
 onready var items = $ScrollContainer/VBoxContainer.get_children()
