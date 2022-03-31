@@ -58,3 +58,63 @@ polygon = PoolVector2Array( 3557, 1905, 3557, 1879, 3545, 1879, 3545, 1868, 3555
 
 [node name="Polygon2D" type="Polygon2D" parent="Buildings/Cato_College_of_Education"]
 polygon = PoolVector2Array( 3384, 1944, 3352, 1944, 3352, 1928, 3336, 1928, 3336, 1920, 3312, 1920, 3312, 1832, 3336, 1832, 3336, 1816, 3352, 1816, 3352, 1808, 3384, 1808, 3384, 1816, 3400, 1816, 3400, 1832, 3408, 1832, 3408, 1920, 3400, 1920, 3400, 1928, 3384, 1928 )
+
+[node name="Atkins" type="Node2D" parent="Buildings"]
+
+[node name="Polygon2D" type="Polygon2D" parent="Buildings/Atkins"]
+polygon = PoolVector2Array( 3568, 2296, 3568, 2240, 3560, 2216, 3568, 2184, 3720, 2192, 3752, 2192, 3752, 2240, 3752, 2240, 3768, 2240, 3768, 2264, 3784, 2264, 3784, 2256, 3840, 2256, 3840, 2328, 3712, 2328, 3712, 2336, 3696, 2336, 3696, 2344, 3680, 2344, 3680, 2336, 3592, 2336, 3592, 2312, 3584, 2312, 3584, 2296 )
+
+[node name="Cameron_Hall" type="Node2D" parent="Buildings"]
+
+[node name="Polygon2D" type="Polygon2D" parent="Buildings/Cameron_Hall"]
+polygon = PoolVector2Array( 3800, 1912, 3800, 1808, 3952, 1808, 3952, 1912 )
+
+[node name="Denny" type="Node2D" parent="Buildings"]
+
+[node name="Polygon2D" type="Polygon2D" parent="Buildings/Denny"]
+polygon = PoolVector2Array( 4080, 2400, 4080, 2320, 4152, 2320, 4152, 2408 )
+
+[node name="College_of_Health_&_Human_Services" type="Node2D" parent="Buildings"]
+
+[node name="Polygon2D" type="Polygon2D" parent="Buildings/College_of_Health_&_Human_Services"]
+polygon = PoolVector2Array( 3464, 1808, 3472, 1808, 3480, 1808, 3472, 1808, 3480, 1808, 3480, 1808, 3480, 1800, 3512, 1800, 3512, 1808, 3512, 1808, 3528, 1808, 3528, 1920, 3520, 1920, 3520, 1920, 3520, 1920, 3520, 1952, 3536, 1952, 3536, 1968, 3536, 1968, 3536, 1968, 3536, 1968, 3552, 1968, 3560, 1984, 3560, 1992, 3552, 2000, 3536, 2008, 3536, 2016, 3512, 2016, 3512, 2032, 3472, 2032, 3472, 2016, 3456, 2016, 3456, 2008, 3448, 2008, 3448, 1960, 3456, 1960, 3456, 1952, 3464, 1952, 3464, 1912, 3456, 1912, 3456, 1824, 3456, 1816, 3464, 1816 )
+
+[node name="Smith" type="Node2D" parent="Buildings"]
+
+[node name="Polygon2D" type="Polygon2D" parent="Buildings/Smith"]
+polygon = PoolVector2Array( 3776, 1960, 3888, 1960, 3888, 2056, 3872, 2056, 3872, 2056, 3872, 2056, 3864, 2056, 3864, 2048, 3848, 2048, 3848, 2048, 3840, 2048, 3840, 2064, 3848, 2064, 3848, 2112, 3768, 2112, 3768, 2064, 3792, 2064, 3792, 2056, 3784, 2056, 3776, 2056, 3776, 1968 )
+
+[node name="Colvard" type="Node2D" parent="Buildings"]
+
+[node name="Polygon2D" type="Polygon2D" parent="Buildings/Colvard"]
+polygon = PoolVector2Array( 3704, 2560, 3704, 2368, 3744, 2368, 3744, 2384, 3768, 2384, 3768, 2400, 3784, 2400, 3784, 2416, 3840, 2416, 3840, 2560 )
+
+[node name="Belk_Gym" type="Node2D" parent="Buildings"]
+
+[node name="Polygon2D" type="Polygon2D" parent="Buildings/Belk_Gym"]
+polygon = PoolVector2Array( 2976, 2312, 3032, 2312, 3032, 2304, 3040, 2304, 3040, 2264, 3152, 2264, 3152, 2304, 3160, 2304, 3160, 2312, 3152, 2312, 3152, 2384, 3160, 2384, 3160, 2392, 3152, 2392, 3152, 2432, 3040, 2432, 3040, 2392, 3032, 2392, 3032, 2384, 2976, 2384, 2976, 2304 )
+
+[node name="Bernard" type="Node2D" parent="Buildings"]
+
+[node name="Polygon2D" type="Polygon2D" parent="Buildings/Bernard"]
+polygon = PoolVector2Array( 4032, 2288, 4032, 2256, 4032, 2256, 4120, 2256, 4120, 2320, 4088, 2320, 4088, 2288 )
+
+[node name="Garinger" type="Node2D" parent="Buildings"]
+
+[node name="Polygon2D" type="Polygon2D" parent="Buildings/Garinger"]
+polygon = PoolVector2Array( 4032, 2464, 4032, 2464, 4032, 2432, 4088, 2432, 4088, 2408, 4112, 2408, 4112, 2464 )
+
+[node name="Storrs" type="Node2D" parent="Buildings"]
+
+[node name="Polygon2D" type="Polygon2D" parent="Buildings/Storrs"]
+polygon = PoolVector2Array( 4168, 2496, 4208, 2496, 4208, 2480, 4192, 2480, 4184, 2464, 4184, 2448, 4224, 2448, 4224, 2440, 4240, 2440, 4240, 2440, 4240, 2448, 4280, 2448, 4280, 2480, 4304, 2480, 4304, 2496, 4280, 2496, 4280, 2616, 4256, 2616, 4256, 2632, 4240, 2632, 4240, 2640, 4224, 2640, 4224, 2632, 4208, 2632, 4208, 2616, 4168, 2616 )
+
+[node name="Robinson_Hall" type="Node2D" parent="Buildings"]
+
+[node name="Polygon2D" type="Polygon2D" parent="Buildings/Robinson_Hall"]
+polygon = PoolVector2Array( 4040, 2624, 4080, 2624, 4080, 2616, 4104, 2616, 4112, 2624, 4144, 2624, 4144, 2624, 4144, 2640, 4144, 2776, 4152, 2776, 4152, 2792, 4136, 2792, 4136, 2784, 4104, 2800, 4104, 2808, 4080, 2808, 4080, 2800, 4048, 2784, 4048, 2792, 4032, 2792, 4032, 2776, 4040, 2776, 4032, 2752, 4032, 2736, 4040, 2712, 4032, 2712, 4032, 2696, 4040, 2696 )
+
+[node name="Johnson_Band_Center" type="Node2D" parent="Buildings"]
+
+[node name="Polygon2D" type="Polygon2D" parent="Buildings/Johnson_Band_Center"]
+polygon = PoolVector2Array( 4280, 2624, 4280, 2624, 4320, 2624, 4320, 2688, 4280, 2688, 4280, 2680, 4288, 2680, 4288, 2648, 4280, 2648 )
